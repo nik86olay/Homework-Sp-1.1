@@ -4,6 +4,11 @@ HELP.md
 .gradle
 build/
 target/
+02_forms/
+03_js/
+04_serlvets/
+05_di/
+06_rest/
 
 ### STS ###
 .apt_generated
